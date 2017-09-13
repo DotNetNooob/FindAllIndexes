@@ -1,0 +1,6 @@
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\FindAllIndexes\FindAllIndexes\bin\Debug\FindAllIndexes.exe.config
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\FindAllIndexes\FindAllIndexes\bin\Debug\FindAllIndexes.exe
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\FindAllIndexes\FindAllIndexes\bin\Debug\FindAllIndexes.pdb
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\FindAllIndexes\FindAllIndexes\obj\Debug\FindAllIndexes.csprojResolveAssemblyReference.cache
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\FindAllIndexes\FindAllIndexes\obj\Debug\FindAllIndexes.exe
+C:\Users\ansab.iqbal\Documents\Visual Studio 2015\Projects\Console Projects\FindAllIndexes\FindAllIndexes\obj\Debug\FindAllIndexes.pdb
